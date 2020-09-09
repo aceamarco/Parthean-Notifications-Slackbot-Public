@@ -1,6 +1,6 @@
 # Parthean Notifications Slack Bot
 ## Introduction
-This is a private Slack workspace app Carnegie Mellon Universitie's 15-112 M20. It will notify a specific Slack Channel dedicated to notifcations from Parthean about any new posts made to the website.
+This is a private Slack workspace app for Carnegie Mellon Universities offering of Fundamentals of Programming 15-112 M20. It will notify a specific Slack Channel dedicated to notifcations from Parthean about any new posts made to the website.
 
 ## Features
 ### Thread and Reply Objects
