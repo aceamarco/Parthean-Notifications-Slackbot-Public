@@ -22,5 +22,7 @@ This is a private Slack workspace app for Carnegie Mellon Universities offering 
 #### Reacts
 - When a previously unresolved post is now resolved, the script will add a :white_check_box: react to it's respective notification on the slack channel.
 - When a currently unresolved post has a number of upvotes > 0, the script will add a :eyes: react to it's respective notification on the slack channel.
+##### Images
+![White check mark feature!](Answered-demo.png "Notification from Remy")
 
 
